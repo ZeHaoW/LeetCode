@@ -9,5 +9,6 @@ public class Solution{
                 res[i/c][i%c] = nums[i/nums[0].length][i%nums[0].length];
             }
         }
+        return res;
 }
 }
