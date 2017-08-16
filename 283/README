@@ -1,0 +1,2 @@
+https://leetcode.com/problems/move-zeroes/description/
+注：需要注意java的数组越界问题，以及短路与（&&）,短路或(||)的使用
