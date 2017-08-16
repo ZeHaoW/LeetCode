@@ -18,3 +18,4 @@ public class Solution {
         return profit;
     }
 }
+//while中要加break才能跳出循环
